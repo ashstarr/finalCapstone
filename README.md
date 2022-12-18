@@ -31,10 +31,6 @@ Credits
 
 To install task manager follow these steps:
 
-Clone the repo
-
-git clone https://github.com/your_username_/Project-Name.git
-
 1. Clone the repo
 
    ```sh
