@@ -1,0 +1,25 @@
+T1, admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+T2, admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+T3, ash, wash the pots, fill the washing up bowl and was the pots, 12 Dec 2022, 18 Nov 2022, No
+T4, angela, Prepare for lecture, Prepare for the lecture on lists, 03 Dec 2022, 21 Nov 2022, No
+T5, ash1, work, do some work on some stuff, 01 Dec 2022, 21 Nov 2022, No
+T6, amanda, work really hard, work really hard at some work to do well, 15 Dec 2022, 21 Nov 2022, No
+T7, ash1, ash1 do some work!!, Do some work, 23 Dec 2022, 21 Nov 2022, No
+T8, martha, Fix some bugs, Fix bugs in the task manager.py code, 05 Dec 2022, 21 Nov 2022, Yes
+T9, barry, barry's first day work, Work for Barry to do on his first day, 22 Nov 2022, 21 Nov 2022, No
+T10, barry, review tasks with manager, view my first days tasks with my manager, 25 Nov 2022, 21 Nov 2022, No
+T11, ash, Test the task complete function works, enter task then go and complete it, 02 Dec 2022, 02 Dec 2022, Yes
+T12, martha, test overdue admin, create a task that will be overdue by Monday 5th Dec, 03 Dec 2022, 02 Dec 2022, Yes
+T13, ash1, test overdue ash1, create a task that will be overdue by Monday 5th Dec, 03 Dec 2022, 02 Dec 2022, No
+T14, amanda, test overdue amanda, create a task that will be overdue by Monday 5th Dec, 03 Dec 2022, 02 Dec 2022, No
+T15, dave, test overdue dave, create a task that will be overdue by Monday 5th Dec, 03 Dec 2022, 02 Dec 2022, No
+T16, angela, test overdue angela, create a task that will be overdue by Monday 5th Dec, 03 Dec 2022, 02 Dec 2022, No
+T17, barry, test overdue barry, create a task that will be overdue by Monday 5th Dec, 03 Dec 2022, 02 Dec 2022, No
+T18, alan, test overdue alan, create a task that will be overdue by Monday 5th Dec, 03 Dec 2022, 02 Dec 2022, No
+T19, Bill, test overdue Bill, create a task that will be overdue by Monday 5th Dec, 03 Dec 2022, 02 Dec 2022, No
+T20, dave, anotehr task with a later due date, testing tha only the overdue task flags, 10 Dec 2022, 02 Dec 2022, No
+T21, angela, anotehr task with a later due date, testing tha only the overdue task flags, 15 Dec 2022, 02 Dec 2022, No
+T22, martha, Martha's first task, Log on to system and do your work, 06 Dec 2022, 05 Dec 2022, Yes
+T23, ash1, another tesk, another task description, 24 Nov 2022, 05 Dec 2022, No
+T24, ash, title, description, 05 Dec 2022, 05 Dec 2022, Yes
+T25, ash1, title, description, 12 Dec 2022, 05 Dec 2022, No
